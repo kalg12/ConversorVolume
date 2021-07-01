@@ -10,6 +10,6 @@ Lenguaje: C#
   
 Este programa forma parte de un ejercicio básico usando forms, donde el usuario digitaliza n cantidad de centrilitros y al dar clic en el botón convertir hace la función de conversión a litros.
   
-https://prnt.sc/17s65em
+
   
 </div>
